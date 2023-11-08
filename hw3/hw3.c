@@ -2,10 +2,11 @@
 
 int main()
 {
+	const int NUM_LINE = 15;
 
-	for (int i = 1; i <= 5; ++i) 
+	for (int i = 1; i <= NUM_LINE; ++i)
 	{
-		for (int j = 5-i; j > 0; --j)
+		for (int j = NUM_LINE -i; j > 0; --j)
 		{
 			printf(" ");
 			

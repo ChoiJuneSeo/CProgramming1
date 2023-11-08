@@ -1,3 +1,2 @@
 ﻿  hw2.c
-C:\Users\Owner\Desktop\C프로그래밍\Code\C_Homework\Hw2\hw2.c(10,23): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
   Hw2.vcxproj -> C:\Users\Owner\Desktop\C프로그래밍\Code\C_Homework\Hw2\x64\Debug\Hw2.exe
