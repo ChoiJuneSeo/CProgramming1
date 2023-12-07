@@ -67,6 +67,4 @@ void main()
 			break;
 		}
 	} while (state);
-		
-
 }
