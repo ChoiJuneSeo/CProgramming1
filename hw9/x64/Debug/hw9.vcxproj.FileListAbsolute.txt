@@ -1,0 +1,2 @@
+C:\Users\Owner\Desktop\프로그래밍 관련\C언어\C프로그래밍_과제_github\hw9\x64\Debug\hw9.exe
+C:\Users\Owner\Desktop\C프로그래밍\Code\C_Homework\hw9\x64\Debug\hw9.exe
